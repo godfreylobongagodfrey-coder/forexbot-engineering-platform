@@ -1,4 +1,4 @@
-﻿# ForexAI Engineering Platform
+﻿# Forexbot Engineering Platform
 
 A Python engineering platform demonstrating read-only market-data observation, data integrity, operational monitoring, audit logging and task supervision.
 
